@@ -7,7 +7,7 @@ Essa referência foi baseada em dois documentos importantes:
 
 Simplifiquei o conteúdo para refletir o que é mais usado no dia a dia das empresas e boas práticas que funcionaram bem na minha experiência.
 
-## Formato (Formato)
+## Formato (Format)
 Os commits devem seguir o formato abaixo, onde **`type`** é obrigatório. Ele indica o propósito do commit, e **`description`** detalha a ação realizada:
 
 - **Formato (Português):**  
